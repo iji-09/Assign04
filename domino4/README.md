@@ -2,6 +2,11 @@
 
 ## LED 도미노 구현
 
+
+### 도미노 구현 영상
+[![영상 썸네일](https://img.youtube.com/vi/xtqHN-ZfKqU/0.jpg)](https://youtu.be/xtqHN-ZfKqU)
+
+
 ### 개요
 이 Bash 스크립트는 4개의 LED를 순서대로 켜고 끄는 **LED 도미노 효과**를 구현합니다.  
 LED는 순차적으로 켜졌다가 꺼지며, 이 동작을 무한히 반복합니다.  
