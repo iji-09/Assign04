@@ -4,7 +4,9 @@
 
 
 ### 도미노 구현 영상
-[![영상 썸네일](https://img.youtube.com/vi/xtqHN-ZfKqU/0.jpg)](https://youtu.be/xtqHN-ZfKqU)
+<a href="https://youtu.be/xtqHN-ZfKqU">
+    <img src="https://img.youtube.com/vi/xtqHN-ZfKqU/0.jpg" alt="YouTube 영상" width="600">
+</a>
 
 
 ### 개요
