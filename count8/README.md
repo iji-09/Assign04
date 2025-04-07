@@ -121,7 +121,7 @@ done
 
 ---
 
-### 📸 회로 구현 이미지
-![KakaoTalk_20250407_144241769](https://github.com/iji-09/Assign04/blob/main/KakaoTalk_20250407_144241769.png)
+### 회로 구현 이미지
+![KakaoTalk_20250407_144241769](https://github.com/user-attachments/assets/4cac8fdd-ddbd-491f-a3f0-66870da2faa2)
 
 ---
