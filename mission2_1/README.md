@@ -1,6 +1,10 @@
 
 ## 미션 2-1
 
+### 구현 영상
+https://youtu.be/mOjALKbTfr0
+
+
 ```markdown
 # Button-Controlled LED Lighting System (Raspberry Pi + gpiozero)
 
