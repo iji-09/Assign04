@@ -1,7 +1,4 @@
 
----
-
-## 📄 README.md (예시)
 
 ```markdown
 # Button-Controlled LED Lighting System (Raspberry Pi + gpiozero)
@@ -10,7 +7,7 @@
 
 ---
 
-## 🧾 코드 설명
+## 코드 설명
 
 ```python
 from gpiozero import LED, Button
@@ -36,7 +33,7 @@ except KeyboardInterrupt:
     print("사용자에 의해 종료됨")
 ```
 
-### 📌 주요 구성 요소
+### 주요 구성 요소
 
 - **`LED(pin)`**: GPIO 번호를 받아 해당 핀에 연결된 LED를 제어합니다.
 - **`Button(25)`**: GPIO 25번 핀에 연결된 버튼 입력을 감지합니다.
@@ -47,17 +44,10 @@ except KeyboardInterrupt:
 - **`pause()`**: 프로그램이 종료되지 않고 계속 실행되도록 유지합니다.
 - **`try / except KeyboardInterrupt`**: 사용자가 `Ctrl+C`로 종료할 경우 친절한 메시지를 출력합니다.
 
----
-
-## 🔌 사용 환경
-
-- Raspberry Pi (GPIO 사용 가능 모델)
-- Python 3
-- `gpiozero` 라이브러리 (기본 포함 or 설치: `pip install gpiozero`)
 
 ---
 
-## 🛠️ 연결 방법
+## 연결 방법
 
 | 구성 요소 | GPIO 핀 번호 |
 |------------|--------------|
@@ -71,32 +61,9 @@ except KeyboardInterrupt:
 
 ---
 
-## 🧪 동작 방식
+## 동작 방식
 
 1. 버튼을 **누르면**, 모든 LED가 **켜진다**.
 2. 버튼에서 **손을 떼면**, 모든 LED가 **꺼진다**.
 3. 프로그램은 `pause()`로 **계속 대기**하며 동작을 유지한다.
 4. `Ctrl+C`로 종료하면 `"사용자에 의해 종료됨"` 메시지가 출력된다.
-
----
-
-## 📦 파일 구성 예시
-
-```
-mission2_4/
-├── mission2-4.py       ← 이 Python 코드
-└── README.md           ← 이 설명 파일
-```
-
----
-
-## 🧩 기타 참고 사항
-
-- `gpiozero`는 라즈베리파이에서 초보자가 GPIO를 쉽게 제어할 수 있도록 만든 고수준 라이브러리입니다.
-- 더 복잡한 논리나 병렬 제어가 필요하다면 `RPi.GPIO` 또는 `asyncio`도 고려할 수 있습니다.
-```
-
----
-
-원하면 이 내용을 텍스트 파일로도 만들어줄 수 있어.  
-이 설명에서 수정하거나 추가하고 싶은 부분 있으면 말해줘!
