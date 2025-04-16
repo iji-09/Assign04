@@ -3,8 +3,6 @@
 
 ## 미션 2-4
 
-# Binary Counter with LEDs and Button (Raspberry Pi + gpiozero)
-
 이 프로젝트는 Raspberry Pi에서 **버튼을 누를 때마다 숫자를 1씩 증가시켜**,  
 그 숫자를 **4개의 LED에 2진수로 표시**하는 프로그램입니다.  
 `gpiozero` 라이브러리를 사용해 간단한 인터페이스로 GPIO 핀을 제어합니다.
