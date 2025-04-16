@@ -2,6 +2,11 @@
 
 ## 미션 2-3
 
+### 구현 영상 
+
+[![Watch the video](https://img.youtube.com/vi/Vt6WmrtoRjY/0.jpg)](https://youtu.be/Vt6WmrtoRjY)
+
+
 ```markdown
 # Domino LED Sequence with Button (Raspberry Pi + gpiozero)
 
