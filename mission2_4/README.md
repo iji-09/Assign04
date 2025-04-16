@@ -3,7 +3,6 @@
 
 ## 미션 2-4
 
-```markdown
 # Binary Counter with LEDs and Button (Raspberry Pi + gpiozero)
 
 이 프로젝트는 Raspberry Pi에서 **버튼을 누를 때마다 숫자를 1씩 증가시켜**,  
