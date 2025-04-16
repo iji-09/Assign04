@@ -2,6 +2,11 @@
 
 ## 미션2-2
 
+### 구현 영상
+
+[![Watch the video](https://img.youtube.com/vi/mFfDhICJKbc/0.jpg)](https://youtu.be/mFfDhICJKbc)
+
+
 ```markdown
 # Toggle LEDs with Button (Raspberry Pi + gpiozero)
 
