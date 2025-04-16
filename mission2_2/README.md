@@ -1,6 +1,6 @@
 
 
-## 버튼 눌림에 따라 LED 상태 토글
+## 미션2-2
 
 ```markdown
 # Toggle LEDs with Button (Raspberry Pi + gpiozero)
@@ -93,6 +93,4 @@ python3 mission2_toggle.py
 mission2_toggle/
 ├── mission2_toggle.py     ← 토글 제어 코드
 └── README.md              ← 코드 설명 파일
-```
-
 ```
