@@ -2,7 +2,8 @@
 ## 미션 2-1
 
 ### 구현 영상
-https://youtu.be/mOjALKbTfr0
+[![Watch the video](https://img.youtube.com/vi/mOjALKbTfr0/0.jpg)](https://youtu.be/mOjALKbTfr0)
+
 
 
 ```markdown
